@@ -1,0 +1,23 @@
+body{
+  background-image: url("bg2.jpg");
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  /*background-position: top;*/
+}
+form{
+  width: 35%;
+  margin-left: 35%;
+  padding-top: 2%;
+}
+#second{
+  padding-top:10%;
+  text-align: center;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #080808;
+}

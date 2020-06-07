@@ -1,0 +1,40 @@
+body{
+  background-image: url("bg2.jpg");
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  /*background-position: top;*/
+}
+#c1{
+  width: 100%;
+}
+.col-lg-4{
+  width: 100%;
+}
+#content{
+  width: 100%;
+  text-align: center;
+  padding: 15%;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #080808;
+}
+hr{
+    border: 1px solid #080808;
+}
+.btn-default{
+  background-color: pink;
+}
+#third{
+  color: black;
+  margin-right: 5%;
+  background-color: pink;
+}
+#fourth{
+  color: black;
+  margin-right: 5%;
+}
